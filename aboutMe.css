@@ -1,0 +1,37 @@
+h1{color:red}
+
+
+
+.item{
+
+    width: 300px;
+    border-radius:20px;
+    background-color: blue;
+    font-size: 15px;
+    
+
+
+
+}
+
+
+
+
+
+.header{
+   
+    width: 300px;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+ 
+}
+
+
+
+
+p,h2{
+    justify-content: space-around;
+}
+

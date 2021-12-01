@@ -1,0 +1,113 @@
+h1{color:red}
+
+
+
+
+
+
+
+
+.header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    
+    
+}
+body{
+    background-color: whitesmoke;
+}
+
+
+.menu{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#ffffff
+}
+body{
+    margin: 0px;
+    background-color: #ff0000;
+
+}
+
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+  
+    
+    font-family: sans-serif;
+
+  
+}
+
+
+
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+
+    
+}
+.origami{
+
+    border-radius: 20px;
+    background-color: #80000000;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: sans-serif;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.item{
+   
+    width: 300px;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+ 
+}
+
+p,h2{
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
